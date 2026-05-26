@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clustercecrypt",
+        "uuid": 12858036,
+        "checksum": "hm7gol"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
